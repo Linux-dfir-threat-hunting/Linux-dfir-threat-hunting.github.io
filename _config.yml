@@ -110,8 +110,8 @@ description: "Intended as a documentation theme based on Jekyll for technical wr
 # the description is used in the feed.xml file
 
 # needed for sitemap.xml file only
- url: Linux-dfir-threat-hunting
- baseurl: /Linux-dfir-threat-hunting.github.io
+ url: linux-dfir-threat-hunting.github.io
+ baseurl: /Linux-dfir-threat-hunting
 
 
 github: [metadata]
