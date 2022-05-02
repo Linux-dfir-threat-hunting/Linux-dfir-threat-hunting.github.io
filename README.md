@@ -1,1 +1,0 @@
-# linux-dfir-threat-hunting.github.io
